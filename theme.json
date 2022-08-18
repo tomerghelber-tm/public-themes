@@ -1,12 +1,18 @@
 {
-    "name": "Tictile Mobility Theme",
+    "name": "Themes",
     "description": "This theme include element style with icons",
     "elements": [
         {
             "tag": "Language - TypeScript",
-            "stroke" : "#4d27aa",
-            "color" : "#4d27aa",
             "icon": "https://raw.githubusercontent.com/tomerghelber-tm/public-thems/main/typescript.png"
+        },
+        {
+            "tag": "Language - Python",
+            "icon": "https://raw.githubusercontent.com/tomerghelber-tm/public-themes/main/python.png"
+        },
+        {
+            "tag": "Language - Java",
+            "icon": "https://raw.githubusercontent.com/tomerghelber-tm/public-themes/main/java.png"
         }
     ]
 }
