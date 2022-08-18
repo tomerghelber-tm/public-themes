@@ -3,15 +3,15 @@
     "description": "This theme include element style with icons",
     "elements": [
         {
-            "tag": "Language - TypeScript",
+            "tag": "Languages - TypeScript",
             "icon": "https://raw.githubusercontent.com/tomerghelber-tm/public-thems/main/typescript.png"
         },
         {
-            "tag": "Language - Python",
+            "tag": "Languages - Python",
             "icon": "https://raw.githubusercontent.com/tomerghelber-tm/public-themes/main/python.png"
         },
         {
-            "tag": "Language - Java",
+            "tag": "Languages - Java",
             "icon": "https://raw.githubusercontent.com/tomerghelber-tm/public-themes/main/java.png"
         }
     ]
