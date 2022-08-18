@@ -1,0 +1,10 @@
+{
+    "name": "Tictile Mobility Theme",
+    "description": "This theme include element style with icons",
+    "elements": [
+        {
+            "tag": "TypeScript",
+            "icon": "https://www.flaticon.com/download/icon/919832?icon_id=919832&author=164&team=164&keyword=Typescript&pack=919824&style=0&style_id=133&format=png&color=%23000000&colored=2&size=512&selection=1&premium=0&type=standard"
+        }
+    ]
+}
