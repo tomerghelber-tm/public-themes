@@ -13,6 +13,10 @@
         {
             "tag": "Languages - Java",
             "icon": "https://raw.githubusercontent.com/tomerghelber-tm/public-themes/main/java.png"
+        },
+        {
+            "tag": "Queues - Kafka",
+            "icon": "https://raw.githubusercontent.com/tomerghelber-tm/public-themes/main/kafka.png"
         }
     ]
 }
